@@ -1,8 +1,8 @@
 # Introduction
 This is the official repo for IITISOC by 
-- Mohit Naval - [LinkedIn]()
-- Bhavy Ranka - [LinkedIn]()
-- Abhinav Jain - [LinkedIn]()                                                                                                                                                                                                
+- Mohit Naval - [LinkedIn](https://www.linkedin.com/in/mohit-naval-39a64b234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Bhavy Ranka - [LinkedIn](https://www.linkedin.com/in/bhavy-ranka-100770321)
+- Abhinav Jain - [LinkedIn](https://www.linkedin.com/in/abhinav-jain-852534313/)                                                                                                                                                                                                
 
 We are working on Swarm implementation using Gazebo,SLAM Toolbox
 ## Resources
